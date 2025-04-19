@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPISerialController", "WebAPISerialController.csproj", "{A84200AE-DD3A-270A-1BFC-D575BAEE9C32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPISerialController.Desktop", "..\WebAPISerialController.Desktop\WebAPISerialController.Desktop.csproj", "{D37017E6-7861-8462-BE2D-8090BE8077EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A84200AE-DD3A-270A-1BFC-D575BAEE9C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A84200AE-DD3A-270A-1BFC-D575BAEE9C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A84200AE-DD3A-270A-1BFC-D575BAEE9C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A84200AE-DD3A-270A-1BFC-D575BAEE9C32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D37017E6-7861-8462-BE2D-8090BE8077EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D37017E6-7861-8462-BE2D-8090BE8077EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D37017E6-7861-8462-BE2D-8090BE8077EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D37017E6-7861-8462-BE2D-8090BE8077EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9D02064-4783-491F-A268-8DC3039DF084}
+	EndGlobalSection
+EndGlobal
